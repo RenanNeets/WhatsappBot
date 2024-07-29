@@ -1,0 +1,11 @@
+Criar um robô que vai abrir o navegador, entrar no whatsapp, depois em uma conversa e depois enviar uma mensagem
+pré estabelecida para a pessoa, e depois fechar a quia e depois voltar até a lista de contatos acabar
+
+*Todos os dados tem que estar em uma planilha do excel, nome, telefone e informação que vai mandar
+
+
+Tecnologias Usadas:
+	Teclado (pyautogui)
+	Acesso ao site(webbrowser - biblioteca já existente no python)
+	Automatizar digitação (link whatsapp criado pelo dev)
+	Automatizar leitura de dados de uma planilha (openpyxl)
